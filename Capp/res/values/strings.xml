@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="q1">Does the hat have a brim?</string>
+    <string name="q1_0">No</string>
+    <string name="q1_1">Yes</string>
+    <string name="title_activity_q1_0">No</string>
+    <string name="title_activity_q1_1">Yes</string>
+    <string name="hat_tuque">Tuque (Beanie)</string>
+    <string name="hat_baseball">Baseball Cap</string>
+
+</resources>
